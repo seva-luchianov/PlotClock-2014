@@ -1,0 +1,37 @@
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\le\FEZ Panda II Application.exe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\be\FEZ Panda II Application.exe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\le\FEZ Panda II Application.pdb
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\be\FEZ Panda II Application.pdb
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\FEZ Panda II Application.exe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\FEZ Panda II Application.pdb
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\le\FEZ Panda II Application.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\le\FEZ Panda II Application.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\be\FEZ Panda II Application.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\be\FEZ Panda II Application.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\PlotClockV2.Resources.resources
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\PlotClockV2.csproj.GenerateResource.Cache
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\PlotClockV2.Resources.tinyresources
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\TinyResGen.cache
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\be\FEZ Panda II Application.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\be\FEZ Panda II Application.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\le\FEZ Panda II Application.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\le\FEZ Panda II Application.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\FEZ Panda II Application.exe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\obj\Debug\FEZ Panda II Application.pdb
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\GHIElectronics.NETMF.System.DLL
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+c:\users\seva\documents\visual studio 2010\Projects\PlotClockV2\PlotClockV2\bin\Debug\GHIElectronics.NETMF.System.xml
